@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pexip is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://pexip.com/
+Pexip provides a secure video communications platform enabling organizations to host, join, and manage virtual meetings across any device or conference system. Their solutions include Pexip Connect, a cloud‑based service that integrates with Microsoft Teams, Zoom, Google Meet, and SIP/H.323 endpoints, offering interoperability, recording, and AI‑enhanced features. Pexip serves sectors such as enterprise, government, healthcare, and education, delivering scalable, high‑quality video conferencing with robust security and compliance controls.
+
+**Areas:** Video · Communications · Cloud · Security · Enterprise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pexip.com/)
+- [Documentation](https://docs.pexip.com/)
+- [Getting started](https://help.pexip.com/service/home-starting.htm)
+- [Pricing](https://www.pexip.com/plans)
+- [Support](https://support.pexip.com/)
+- [Blog](https://www.pexip.com/blog)
+- [Security](https://www.pexip.com/trust-center/vulnerability-disclosure)
+- [Compliance](https://www.pexip.com/trust-center)
+- [Terms of service](https://www.pexip.com/terms)
+- [Privacy policy](https://www.pexip.com/privacy)
+- [GitHub](https://github.com/pexip)
+- [Status](https://status.pexip.com/?utm_source=website&utm_medium=menu)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pexip/](https://apis.io/providers/pexip/).
